@@ -1,3 +1,7 @@
+# The Single Responsibility Principle (SRP)
+# is the concept that any single object in object-oriented programing (OOP)
+# should be made for one specific function
+
 class Journal:
     """This is Journal class with his functionality"""
     def __init__(self):
